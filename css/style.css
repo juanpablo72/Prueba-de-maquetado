@@ -1,79 +1,91 @@
 * {
   margin: 0px;
   padding: 0px;
-  
 }
-.bg-1{
-  background: #0EE7F1;
+.bg-1 {
+  background: #0ee7f1;
 }
-.logo-bar{
+.logo-bar {
   width: 230px;
-  
+  height: ;
 }
-.bg-2
-{
-  background: #2F0D54;
+.bg-2 {
+  background: #2f0d54;
 }
-.btn-registrer
-{
+.btn-registrer {
   width: 200px;
   height: 60px;
 }
 
-.button-container{
-display:inline-block;
-position:relative;
-}
-
-.button-container a{
-position: absolute;
-top:4em;
-left: 4em;
-
-color:white;
-text-transform:uppercase;
-padding:1em 1.5em;
-}
-.btn-ourmision
-{
+.btn-ourmision {
   width: 100px;
-
 }
-.texto
-{
-position:absolute;
-      
-      top: 300px;
+.texto {
+  position: absolute;
+
+  top: 300px;
 }
 
-.part-3{
-  background: #0EE7F1;
+.part-3 {
+  background: #0ee7f1;
   min-height: 100vh;
 }
-.bg-3{
+.bg-3 {
   min-height: 100vh;
-  background: #2F0D54;
+  background: #2f0d54;
 }
-.img3
-{
+.img3 {
   width: 200px;
   height: 220px;
-
-
 }
-.bg-5{
- 
+.bg-5 {
   min-height: 70vh;
-  background: #EA660B;
+  background: #ea660b;
 }
 
-.img-products
-{
+.img-products {
   width: 370px;
   height: 360px;
 }
-.bg-7
-{
-    background: #0EE7F1;
-    min-height: 100vh;
+.bg-7 {
+  background: #0ee7f1;
+  min-height: 100vh;
+}
+
+.textopar {
+  width: 500px;
+  position: absolute;
+  top: 10px;
+  left: 10px;
+}
+.imgcua {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.btnour {
+  background: #bef318;
+  border-radius: 28px;
+  text-decoration: none;
+  color: #fff;
+}
+.tamico {
+  width: 60px;
+  height: 60px;
+}
+
+.cuadrado {
+  margin-top: 40px;
+  width: 600px;
+  height: 400px;
+  background: #5f5656;
+}
+.text-n {
+  color: #8914a2;
+  font-size: 18px;
+}
+
+.text-tamano {
+  font-size: 24px;
 }
