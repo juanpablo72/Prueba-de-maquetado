@@ -3,3 +3,72 @@
   padding: 0px;
   
 }
+.bg-1{
+  background: #0EE7F1;
+}
+.logo-bar{
+  width: 230px;
+  
+}
+.bg-2
+{
+  background: #2F0D54;
+}
+.btn-registrer
+{
+  width: 200px;
+  height: 60px;
+}
+
+.button-container{
+display:inline-block;
+position:relative;
+}
+
+.button-container a{
+position: absolute;
+top:4em;
+left: 4em;
+
+color:white;
+text-transform:uppercase;
+padding:1em 1.5em;
+}
+.btn-ourmision
+{
+  width: 100px;
+
+}
+.texto
+{
+position:absolute;
+      
+      top: 300px;
+}
+
+.part-3{
+  background: #0EE7F1;
+  min-height: 100vh;
+}
+.bg-3{
+  min-height: 100vh;
+  background: #2F0D54;
+}
+.img3
+{
+  width: 200px;
+  height: 220px;
+
+
+}
+.bg-5{
+ 
+  min-height: 70vh;
+  background: #EA660B;
+}
+
+.img-products
+{
+  width: 370px;
+  height: 360px;
+}
