@@ -72,3 +72,8 @@ position:absolute;
   width: 370px;
   height: 360px;
 }
+.bg-7
+{
+    background: #0EE7F1;
+    min-height: 100vh;
+}
